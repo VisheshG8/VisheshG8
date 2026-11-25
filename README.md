@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **guptavishesh2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15K85-SLqdhDnznamrskWRgEBLfr_Vy_5/view?usp=sharing](https://drive.google.com/file/d/15K85-SLqdhDnznamrskWRgEBLfr_Vy_5/view?usp=sharing)
+- 📄 Know about my experiences [https://www.linkedin.com/in/vishesh-gupta-a34111209/](https://www.linkedin.com/in/vishesh-gupta-a34111209/)
 
 - ⚡ Fun fact **I believe I'm a hidden gem—only the right 'johri' (gemologist) will recognize my true potential**
 
