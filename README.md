@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=visheshg8" alt="visheshg8" /></a> </p>
 
-<p align="left"> <a href="https://x.com/VisheshG26" target="blank"><img src="https://img.shields.io/twitter/follow/visheshgup29844?logo=twitter&style=for-the-badge" alt="visheshgup29844" /></a> </p>
+<p align="left"> <a href="https://x.com/VisheshG26" target="blank"><img src="https://img.shields.io/twitter/follow/visheshgup29844?logo=twitter&style=for-the-badge" alt="VisheshG26" /></a> </p>
 
 - 🌱 I’m currently learning **Next Js and Advancing my skills in react native**
 
